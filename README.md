@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently learning how best to apply myself to establish a reputable presence and start making income through places like upwork.
+I started this whole journey because of a free steam game called Bitburner. I had never really tried to work with or on computers before then, but it clicked nicely into place. Now this is what I want my career to be. I'm currently working on being a web developer, but anything is possible. Being a software engineer, programmer, or even as far as a cyber security specialist would be awesome. I just really like the idea of all these bits and codes running together on a global network, and human beings interacting through time with them.
 <!--
 **Koomba19/Koomba19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
